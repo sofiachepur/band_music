@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "city": "Київ",
+      "venue": "Docker-G Pub",
+      "seats": 250,
+      "date": "25.10.2025",
+      "time": "19:00"
+    },
+    {
+      "city": "Львів",
+      "venue": "!FESTrepublic",
+      "seats": 400,
+      "date": "01.11.2025",
+      "time": "20:00"
+    },
+    {
+      "city": "Одеса",
+      "venue": "Зелений театр",
+      "seats": 700,
+      "date": "09.11.2025",
+      "time": "19:30"
+    },
+    {
+      "city": "Харків",
+      "venue": "ArtZavod",
+      "seats": 500,
+      "date": "16.11.2025",
+      "time": "19:00"
+    }
+  ]
+}
