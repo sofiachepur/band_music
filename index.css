@@ -49,7 +49,7 @@ body{
 
 .about_band {
     position: relative;
-    background-image: url('photo/audience-1867754_1280.jpg');
+    background-image: url('audience-1867754_1280.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -563,6 +563,7 @@ footer span{
 
 
 }
+
 
 
 
